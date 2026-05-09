@@ -1,7 +1,7 @@
 # Hi, I'm Eugenia 👋
-Data Analytics &amp; Business Intelligence portfolio
+Data Sciennce &amp; Business Intelligence portfolio
 
-Data Analytics & Business Intelligence enthusiast focused on Python, data visualization, and solving business problems through data.
+Data Science & Business Intelligence enthusiast focused on Python, data visualization, and solving business problems through data.
 
 ---
 
